@@ -20,4 +20,5 @@ Bitte draufklicken und dann die Links anklicken
 # Wie erstelle ich einen Pixel
 Das erkläre ich später
 
+# Zum Schluss
 Merkt euch eins meine Kerle, vertraut NIEMANDEN im Internet ;-)
